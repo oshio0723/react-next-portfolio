@@ -1,1 +1,1 @@
-# eact-next-portfolio
+# react-next-portfolio
